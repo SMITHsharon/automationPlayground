@@ -13,7 +13,7 @@ This was a class demonstration of the project-setup process. Project set-up incl
   - `npm install`
   - copy the code for `Gruntfile.js` // add/edit options in `Grunt` file in `grunt.initConfig`
 
-from root directory :: `git add` / `commit` / `push` / `merge`
+- from root directory :: `git add` / `commit` / `push` / `merge`
 
-create a new branch to start working
-run `Grunt` in background
+- create a new branch to start working
+- run `Grunt` in background
